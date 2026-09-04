@@ -1,0 +1,40 @@
+### .gitignore template
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Логи
+*.log
+
+# Системные
+Thumbs.db
